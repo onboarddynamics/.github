@@ -1,23 +1,58 @@
-# Welcome to Onboard Dynamics!
+# Welcome to [Onboard Dynamics](https://onboarddynamics.com/) 
 
-![Onboard Dynamics Logo](https://onboarddynamics.com/wp-content/uploads/2022/02/cropped-OBDWebLogo.png)
+<p align="center">
+  <img src="https://onboarddynamics.com/wp-content/uploads/2022/02/cropped-OBDWebLogo.png" alt="Onboard Dynamics Company Logo">
+</p>
+
+## Advancing Cleaner Energy For Our Environment
+
+Our patented systems minimize methane and other GHG releases during pipeline operations, mitigate GHG emissions from transportation vehicles, and capture methane that would otherwise be released into the atmosphere.
+
+- **No External Power Required** 
+- **Environmental Reporting**
+- **Hazardous Area Compliant**
+- **Mobile/Scalable**
+- **Self-contained**
+- **Easy to Operate**
+
+## Our Services
+
+- **EaaS:** [Evacuation-as-a-Service](https://onboarddynamics.com/services/pipeline-evacuation-as-a-service/)
+- **Training:** [Operator Training](https://onboarddynamics.com/services/training/) & [Maintenance and Repair Training](https://onboarddynamics.com/services/training/)
+- **Evnvironmental Reporting:** [Track and measure your Methane and CO2e emission mitigations](https://onboarddynamics.com/services/accurate-environmental-reporting/)
+
+<br>
+
+**Our products are based on unique, patented natural gas compression technology.**  
+
+Our mobile, scalable, affordable technology platform enables our customers to achieve economic value and environmental benefits by simplifying the compression and movement of natural gas. Whether they are deployed at a remote pipeline job site, in the field, or at a fleet yard, our product solutions can accept any low-pressure natural gas or a renewable natural gas source and then compress or move this natural gas for responsible use. And there is no need for any external power source to operate.
+
+<br>
+
+<p align="center">
+  <img src="https://onboarddynamics.com/wp-content/uploads/2023/11/NoExternalPower.jpg" alt="GoVAC FLEX & MAX">
+</p>
+
 
 ## About Us
 
-At Onboard Dynamics, we are pioneering the future of renewable energy technology with a focus on natural gas recovery and carbon capture solutions. Our innovative products assist the oil and gas industry in capturing natural gas that would otherwise be vented or flared during routine maintenance through the use of our unique, patented technology. This not only helps our clients avoid fines but also contributes to a more sustainable environment.
+Onboard Dynamics was founded in 2013, building on technology that originated at Oregon State University. Later, we secured funding from the DOE’s Advanced Research Projects Agency for Energy (ARPA-E) to advance our technology to address the critical lack of infrastructure in the natural gas refueling market.
 
-We leverage cutting-edge technology to design and build mobile, self-sufficient, engine-driven natural gas compressors. Our systems come equipped with custom controls and telemetry (SCADA) systems that integrate seamlessly with various endpoint APIs. With the help of our partner organizations, our Data-as-a-Service (DaaS) solutions certify net carbon capture data, encrypted on a distributed blockchain network, ensuring transparency, immutability, and integrity. 
+***Listening to Our Customers***, we adapted our compression technology solution for use in pipeline operations during blowdowns. This effort led to the launch of the GoVAC® FLEX pipeline evacuation system. Subsequently, we expanded our technology to serve larger evacuation pipeline projects, resulting in the launch of the GoVAC® MAX system.
 
-## Our Mission
+<br>
 
-To innovate and deliver renewable energy solutions that reduce environmental impact, support our clients' operational efficiency, and pioneer the path towards a sustainable future.
+![Company Timeline](https://onboarddynamics.com/wp-content/uploads/2024/01/companyTimelineforPrint-1.jpg)
+
+<br>
 
 ## Contact Us
 
 For more information about our projects, partnership opportunities, or any queries, please reach out to us at:
 
-- **Email:** contact@onboarddynamics.com
-- **Website:** [www.onboarddynamics.com](https://www.onboarddynamics.com)
+- **Website:** [Contact submission form](https://onboarddynamics.com/connect-with-us/)
+- **Email:** info@onboarddynamics.com
+- **Phone:** (541) 550-3632
 
 ## Follow Us
 
@@ -27,6 +62,3 @@ Stay updated with our latest advancements and news by following us on our social
 - [YouTube](https://www.youtube.com/channel/UCm8XsqrZxEi5fE7hwx_zVmw)
 
 ---
-
-Thank you for visiting our GitHub organization. Together, we can drive the change towards a more sustainable and energy-efficient world.
-
