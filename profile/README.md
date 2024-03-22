@@ -8,6 +8,15 @@
 
 Our patented systems minimize methane and other GHG releases during pipeline operations, mitigate GHG emissions from transportation vehicles, and capture methane that would otherwise be released into the atmosphere.
 
+**Our products are based on unique, patented natural gas compression technology.**
+
+Our mobile, scalable, affordable technology platform enables our customers to achieve economic value and environmental benefits by simplifying the compression and movement of natural gas. Whether they are deployed at a remote pipeline job site, in the field, or at a fleet yard, our product solutions can accept any low-pressure natural gas or a renewable natural gas source and then compress or move this natural gas for responsible use. And there is no need for any external power source to operate.
+
+<p align="center">
+  <img src="https://onboarddynamics.com/wp-content/uploads/2023/11/NoExternalPower.jpg" alt="GoVAC FLEX & MAX">
+</p>
+
+## Benefits of Our Products
 - **No External Power Required** 
 - **Environmental Reporting**
 - **Hazardous Area Compliant**
@@ -21,20 +30,9 @@ Our patented systems minimize methane and other GHG releases during pipeline ope
 - **Training:** [Operator Training](https://onboarddynamics.com/services/training/) & [Maintenance and Repair Training](https://onboarddynamics.com/services/training/)
 - **Evnvironmental Reporting:** [Track and measure your Methane and CO2e emission mitigations](https://onboarddynamics.com/services/accurate-environmental-reporting/)
 
-<br>
-
-**Our products are based on unique, patented natural gas compression technology.**  
-
-Our mobile, scalable, affordable technology platform enables our customers to achieve economic value and environmental benefits by simplifying the compression and movement of natural gas. Whether they are deployed at a remote pipeline job site, in the field, or at a fleet yard, our product solutions can accept any low-pressure natural gas or a renewable natural gas source and then compress or move this natural gas for responsible use. And there is no need for any external power source to operate.
-
-<br>
-
-<p align="center">
-  <img src="https://onboarddynamics.com/wp-content/uploads/2023/11/NoExternalPower.jpg" alt="GoVAC FLEX & MAX">
-</p>
-
-
 ## About Us
+
+The goal of Onboard Dynamics is to support the natural gas ecosystem in reducing global greenhouse gas (GHG) emissions safely and reliably through our innovative and practical commercial solutions. Our patented compression-based systems minimize methane and other GHG releases during pipeline operations and maintenance, mitigate GHG emissions from transportation vehicles, and capture methane that would otherwise be released to the atmosphere from other industrial operations. Our customers receive expanded environmental benefits and reduction in costs through purchasing, leasing, and/or receiving turn-key services from our natural gas-powered products.
 
 Onboard Dynamics was founded in 2013, building on technology that originated at Oregon State University. Later, we secured funding from the DOE’s Advanced Research Projects Agency for Energy (ARPA-E) to advance our technology to address the critical lack of infrastructure in the natural gas refueling market.
 
