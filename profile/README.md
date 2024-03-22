@@ -17,6 +17,7 @@ Our mobile, scalable, affordable technology platform enables our customers to ac
 </p>
 
 ## Benefits of Our Products
+
 - **No External Power Required** 
 - **Environmental Reporting**
 - **Hazardous Area Compliant**
@@ -28,21 +29,11 @@ Our mobile, scalable, affordable technology platform enables our customers to ac
 
 - **EaaS:** [Evacuation-as-a-Service](https://onboarddynamics.com/services/pipeline-evacuation-as-a-service/)
 - **Training:** [Operator Training](https://onboarddynamics.com/services/training/) & [Maintenance and Repair Training](https://onboarddynamics.com/services/training/)
-- **Evnvironmental Reporting:** [Track and measure your Methane and CO2e emission mitigations](https://onboarddynamics.com/services/accurate-environmental-reporting/)
+- **Environmental Reporting:** [Track and measure your Methane and CO2e emission mitigations](https://onboarddynamics.com/services/accurate-environmental-reporting/)
 
 ## About Us
 
 The goal of Onboard Dynamics is to support the natural gas ecosystem in reducing global greenhouse gas (GHG) emissions safely and reliably through our innovative and practical commercial solutions. Our patented compression-based systems minimize methane and other GHG releases during pipeline operations and maintenance, mitigate GHG emissions from transportation vehicles, and capture methane that would otherwise be released to the atmosphere from other industrial operations. Our customers receive expanded environmental benefits and reduction in costs through purchasing, leasing, and/or receiving turn-key services from our natural gas-powered products.
-
-Onboard Dynamics was founded in 2013, building on technology that originated at Oregon State University. Later, we secured funding from the DOE’s Advanced Research Projects Agency for Energy (ARPA-E) to advance our technology to address the critical lack of infrastructure in the natural gas refueling market.
-
-***Listening to Our Customers***, we adapted our compression technology solution for use in pipeline operations during blowdowns. This effort led to the launch of the GoVAC® FLEX pipeline evacuation system. Subsequently, we expanded our technology to serve larger evacuation pipeline projects, resulting in the launch of the GoVAC® MAX system.
-
-<br>
-
-![Company Timeline](https://onboarddynamics.com/wp-content/uploads/2024/01/companyTimelineforPrint-1.jpg)
-
-<br>
 
 ## Contact Us
 
