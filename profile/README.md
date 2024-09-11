@@ -1,4 +1,4 @@
-# [Onboard Dynamics](https://onboarddynamics.com/) 
+# [Onboard Dynamics, LLC](https://onboarddynamics.com/) 
 
 <p align="center">
   <img src="https://onboarddynamics.com/wp-content/uploads/2022/02/cropped-OBDWebLogo.png" alt="Onboard Dynamics Company Logo">
